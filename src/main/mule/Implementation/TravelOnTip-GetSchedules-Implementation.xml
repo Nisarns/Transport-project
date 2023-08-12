@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+	<flow name="TravelOnTip-GetSchedules-ImplementationFlow" doc:id="bf43347f-0d9e-496b-af85-e5f32b4ebb00" >
+		<logger level="INFO" doc:name="Logger" doc:id="00931fe6-fc6d-495b-82d3-1cfd4501c308" />
+	</flow>
+</mule>

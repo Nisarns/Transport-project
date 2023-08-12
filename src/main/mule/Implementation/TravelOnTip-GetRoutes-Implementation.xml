@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+	<flow name="TravelOnTip-GetRoutes-ImplementationFlow" doc:id="3f272c95-6399-4f76-8574-7309d6bc80f4" >
+		<logger level="INFO" doc:name="Logger" doc:id="2cc2f2f4-858e-452a-9893-79e3ddfe16e7" />
+	</flow>
+</mule>
